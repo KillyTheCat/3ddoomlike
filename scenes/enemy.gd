@@ -35,6 +35,7 @@ func _physics_process(delta):
 			set_color_red()
 			look_at(target.global_transform.origin.linear_interpolate(target.transform.origin, 4), Vector3.UP)
 			move_to_target(delta)
+			rotation.x = clamp(rotation.x, 0, 0)
 
 	else:
 		set_color_green()
