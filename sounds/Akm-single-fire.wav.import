@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Akm-single-fire.wav-51ba9a258d4c67e574b6293c2599debb.sample"
+
+[deps]
+
+source_file="res://sounds/Akm-single-fire.wav"
+dest_files=[ "res://.import/Akm-single-fire.wav-51ba9a258d4c67e574b6293c2599debb.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
